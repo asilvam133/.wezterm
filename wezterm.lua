@@ -1,6 +1,7 @@
 local wezterm = require("wezterm")
 local themes = require("themes")
-local theme = themes.neofusion
+local theme = themes.decay_green
+-- local theme = themes.neofusion
 
 local config = {
 	-- fonts
