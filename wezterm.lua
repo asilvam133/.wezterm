@@ -6,7 +6,7 @@ local theme = themes.decay_green
 local config = {
 	-- fonts
 	font = wezterm.font("Berkeley Mono Variable"),
-	font_size = 14,
+	font_size = 16,
 	line_height = 1.4,
 
 	-- decorations
